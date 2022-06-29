@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref1"
+            },
+            "Name": "Nikoline Appelsin Sodavand 33cl",
+            "ProductCode": "5741000129159",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref2"
+            },
+            "Name": "Faxe Kondi 33cl",
+            "ProductCode": "5741000129623",
+            "IsActive": true
+        },
+        {
+            "attributes": {
+                "type": "Product2",
+                "referenceId": "Product2Ref8"
+            },
+            "Name": "Coca Cola 33cl",
+            "ProductCode": "5701872203005",
+            "IsActive": true
+        }
+    ]
+}
