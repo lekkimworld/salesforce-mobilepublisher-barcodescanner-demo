@@ -1,5 +1,5 @@
 # Salesforce Mobile Publisher Barcode Scanner Demo #
-Simple Mobile Publisher demo with a barcode scanner component to be embedded in an Experience Cloud site (Aura for now, LWR doesn't seem to work as of June 2022). The component scans the barcode and looks up a product from the Product2 object based on Product Code in the barcode. Images for the products are retrieved from the static resource.
+Simple Mobile Publisher demo with a barcode scanner component to be embedded in an Experience Cloud site. It needs to be an Aura (Build your Own) for now, LWR (Build your Own) doesn't seem to work as of June 2022. The component scans the barcode and looks up a product from the Product2 object based on Product Code in the barcode. Images for the products are retrieved from the static resource.
 
 To configure:
 1. Create Experience Cloud Site, set member Profile, make active, add component and publish site 
